@@ -1,0 +1,5 @@
+Package    Version
+---------- ---------
+pip        23.1.2
+pyfiglet   0.8.post1
+setuptools 65.5.0
